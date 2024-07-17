@@ -1,0 +1,20 @@
+.logo-image {
+  width: 60px;
+  height: 40px;
+}
+
+.header-heading {
+  font-family: 'Bree Serif';
+  margin-left: 12px;
+  font-weight: 400;
+  font-size: 32px;
+}
+
+.header-container-element {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  padding-left: 12px;
+  background-color: #dbeafe;
+}

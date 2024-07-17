@@ -1,0 +1,14 @@
+.side-slides-container {
+  display: flex;
+  height: 80vh;
+  margin-left: 12px;
+  margin-right: 20px;
+}
+.side-slides-list {
+  width: 32%;
+  overflow: auto;
+  background-color: #f8fafc;
+  color: #0f172a;
+  padding: 0px;
+  list-style-type: decimal;
+}
